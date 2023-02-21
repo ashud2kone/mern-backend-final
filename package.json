@@ -2,7 +2,7 @@
   "name": "mern-todo-api",
   "version": "1.0.1",
   "description": "todo ",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
