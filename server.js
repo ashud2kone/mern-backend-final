@@ -11,7 +11,7 @@ app.use(cors());
 
 mongoose
   .connect(
-    "mongodb+srv://pushkar:mongodb@mern.vkyawn5.mongodb.net/Project?retryWrites=true&w=majority",
+    "mongodb+srv://todo-list-app:18M21a0402@cluster1.682m9u4.mongodb.net/?retryWrites=true&w=majority",
     { useNewUrlParser: true, useUnifiedTopology: true }
   )
   .then(() => console.log("Connected to DB"))
